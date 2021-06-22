@@ -1,4 +1,4 @@
-# -Market-Basket-Analysis---Trabajo-de-Fin-de-Grado
+# Market-Basket-Analysis---Trabajo-de-Fin-de-Grado
 
 Algoritmo de Market Basket Analysis desarrollados para el proyecto final de carrera.
 Partiendo de un dataset de productos de carritos de compra se obtiene como resultado las parejas de productos más compradas conjuntamente.
