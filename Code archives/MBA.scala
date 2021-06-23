@@ -2,7 +2,7 @@ import org.apache.spark
 import org.apache.spark.SparkConf
 import org.apache.spark.SparkContext
 
-class MBA {
+object MBA {
 
   /*
   Poner en funcionamiento un cluster en Spark
